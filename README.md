@@ -65,7 +65,7 @@
   style="
     padding: 10px;
     border-radius: 5px;
-    background-color: aliceblue;
+    background-color: rgb(166, 195, 220);
     font-family: 'Poppins', sans-serif;
   "
 >
