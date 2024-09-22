@@ -23,6 +23,7 @@
 />
 
 - 📫 How to reach me **ashandilsara8@gmail.com**
+- 🌐 Use my portfolio <a href="https://www.ashandilz.me/" target="_blank">https://www.ashandilz.me</a>
 
 <h3 align="left" style="font-family: 'Poppins', sans-serif">
   Connect with me:
