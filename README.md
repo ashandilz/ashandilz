@@ -122,22 +122,4 @@ src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxna
 
 ---
 
-## 📌 Featured Projects
-- **Rise Up Mora** – Career fair platform with session & timeslot management  
-- **Career-GPT** – Platform connecting professionals with recruiters & career coaches  
-- **EventsNow** – Event management & ticket booking system  
-- **Freshmart Grocery** – Online grocery platform with microservices architecture  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashandilz&theme=github_dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashandilz&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-
----
-
 ✨ *Always learning. Always building. Always improving.*
