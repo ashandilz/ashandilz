@@ -131,17 +131,28 @@ src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxna
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashandilz&layout=compact"/>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ashandilz&show_icons=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashandilz&show_icons=true"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashandilz&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashandilz"/>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ashandilz&theme=tokyonight&hide_border=true"
+    height="160"
+  />
 </p>
+
 
 ---
 
