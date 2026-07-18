@@ -1,125 +1,133 @@
-<!-- Font -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"/>
+# Hi there 👋 I'm Ashan Dilsara
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg" alt="Profile Banner" />
-</p>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif">
-  Hi 👋, I'm Ashan Dilsara
-</h1>
+### Software Engineer | Full Stack Developer | Cloud Engineer | IT Undergraduate 🇱🇰
 
-<h3 align="center" style="font-family: 'Poppins', sans-serif">
-  Full Stack Developer | Cloud & Backend Enthusiast | IT Undergraduate @ University of Moratuwa 🇱🇰
-</h3>
+I'm a Software Engineer passionate about building scalable cloud-native applications, modern web platforms, and backend systems. I enjoy solving complex problems and continuously learning new technologies.
 
----
+- 💼 Software Engineer
+- 🎓 BSc (Hons) in Information Technology — University of Moratuwa
+- ☁️ Passionate about AWS, Cloud Computing & Distributed Systems
+- 🚀 Building scalable full-stack applications
+- 🌱 Currently learning DevOps, Kubernetes, AI & System Design
+- ✍️ I enjoy sharing what I learn through technical blogs
 
-<img align="right" alt="Coding" width="400"
-src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"/>
+📫 **Email:** ashandilsara8@gmail.com
 
-### 👨‍💻 About Me
-- 🎓 IT Undergraduate at **University of Moratuwa**
-- 💡 Passionate about **Full Stack Development & Cloud Engineering**
-- ☁️ Building cloud-native apps using **AWS Amplify, Cognito, DynamoDB & AppSync**
-- 🛠️ Learning **DevOps fundamentals** (CI/CD, Docker, Linux)
-- ✍️ Writing technical blogs about **AWS & backend engineering**
-
-📫 Reach me at **ashandilsara8@gmail.com**  
-🌐 Portfolio: **https://www.ashandilz.me**
+🌐 **Portfolio:** https://www.ashandilz.me
 
 ---
 
-### 🌐 Connect with Me
+## 🌍 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/ashandilsara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com/ashandilz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-  <a href="https://codepen.io/ashandilz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40"/>
-  </a>
+<a href="https://linkedin.com/in/ashandilsara">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/ashandilz">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://codepen.io/ashandilz">
+<img src="https://skillicons.dev/icons?i=codepen" />
+</a>
 </p>
 
 ---
 
-## 🧠 Tech Stack & Skills
+# 🚀 Tech Stack
 
-### 💻 Programming Languages
+### Languages
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,c,python" />
 </p>
 
----
+### Frontend
 
-### 🎨 Frontend Development
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="40"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-- Component-based architecture  
-- Responsive UI design  
+### Backend
 
----
-
-### ⚙️ Backend & APIs
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="48"/>
 </p>
 
-- REST API design  
-- GraphQL APIs (AWS AppSync)  
-- Authentication & Authorization (JWT, Cognito)
+### Cloud
 
----
-
-### ☁️ Cloud & AWS
 <p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
-  <img src="https://seeklogo.com/images/A/aws-amplify-logo-D68DDB5AB1-seeklogo.com.png" width="40"/>
+<img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
 
-- AWS Amplify (Gen 2)  
-- Cognito • DynamoDB • Lambda  
-- AppSync (GraphQL & Subscriptions)  
-- S3 (Storage)
+**Experience with**
 
----
+- AWS Amplify
+- Cognito
+- Lambda
+- DynamoDB
+- AppSync
+- API Gateway
+- S3
+- CloudFront
+- IAM
 
-### 🗄️ Databases
+### Databases
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-- DynamoDB (AWS)
-- Schema & relationship design
+Also experienced with **DynamoDB**
 
----
+### Tools
 
-### 🛠️ DevOps & Tools
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
 </p>
-
-- Git & GitHub  
-- CI/CD basics  
-- Linux fundamentals  
 
 ---
 
-✨ *Always learning. Always building. Always improving.*
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashandilz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashandilz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashandilz&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏗 Currently Working On
+
+- ☁️ AWS Cloud Applications
+- 🚀 Full Stack Web Platforms
+- 🤖 AI-powered Applications
+- 📱 Modern React & Next.js Projects
+
+---
+
+# 💡 Interests
+
+- Cloud Engineering
+- Backend Development
+- Distributed Systems
+- DevOps
+- Artificial Intelligence
+- Software Architecture
+
+---
+
+> *"Build things that make people's lives easier."*
